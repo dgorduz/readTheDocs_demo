@@ -5,6 +5,12 @@ Added new line by Dan
 
 If there are some problems, contact us at ....
 
+Badge
+=====
+
+.. image:: https://readthedocs.org/projects/readthedocs-demo-wqpt/badge/?version=latest
+:target: https://readthedocs-demo-wqpt.readthedocs.io/en/latest/?badge=latest
+:alt: Documentation Status
 
 Template
 ========
